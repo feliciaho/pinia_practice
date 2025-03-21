@@ -3,7 +3,9 @@ import { RouterLink, RouterView } from 'vue-router'
 import HelloWorld from './components/HelloWorld.vue'
 export default{
   components:{
-    HelloWorld
+    HelloWorld,
+    RouterLink,
+    RouterView
   }
 }
 </script>
